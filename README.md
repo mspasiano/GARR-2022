@@ -5,4 +5,4 @@
 - CI/CD GitlabCI, GitHub Action, Circle CI
 - Maven Central e Docker Hub
 - Documentazione su Sphinx
-- 
+- SSO Keycloak
